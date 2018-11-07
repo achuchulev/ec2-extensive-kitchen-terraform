@@ -1,4 +1,4 @@
-# Extensive kitchen-terraform plugin usage for testing terraform configurations
+# A semple repo with example of extensive kitchen-terraform plugin usage for testing terraform configurations
 
 ### Prerequisites
 

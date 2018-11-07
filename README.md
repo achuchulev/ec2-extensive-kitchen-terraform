@@ -6,7 +6,7 @@
 * AWS CLI
 * Terraform
 
-## How to test
+## How to use
 
 #### Download the repo and go to the repo directory
 
@@ -43,7 +43,7 @@ gem install bundler
 bundle install
 ```
 
-### Use extensive kitchen-terraform 
+### How to test
 
 Run `./test.sh`
 

@@ -57,3 +57,38 @@ The test script will do the following:
 * Test the Terraform state using the InSpec controls
 * Destroy the Terraform state using the Terraform fixture configuration
 * Perform the same steps for Ubuntu in us-west-2
+
+#### Tree view of directory structure
+
+```
+.
+├── Gemfile
+├── Gemfile.lock
+├── key.sh
+├── kitchen.yml
+├── LICENSE
+├── main.tf
+├── outputs.tf
+├── README.md
+├── test
+│   ├── assets
+│   │   ├── key_pair
+│   │   └── key_pair.pub
+│   ├── fixtures
+│   │   └── wrapper
+│   │       ├── main.tf
+│   │       ├── outputs.tf
+│   │       └── variables.tf
+│   └── integration
+│       └── extensive_suite
+│           ├── centos_attributes.yml
+│           ├── controls
+│           │   ├── inspec_attributes.rb
+│           │   ├── operating_system.rb
+│           │   ├── reachable_other_host.rb
+│           │   └── state_file.rb
+│           ├── inspec.yml
+│           └── ubuntu_attributes.yml
+├── test.sh
+└── variables.tf
+```

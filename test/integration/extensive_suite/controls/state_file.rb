@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 terraform_state = attribute(
   "terraform_state",
   description: "The Terraform configuration under test must define the " \

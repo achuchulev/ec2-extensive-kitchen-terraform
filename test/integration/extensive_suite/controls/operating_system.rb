@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 instances_ami_operating_system_name = attribute(
   "instances_ami_operating_system_name",
   description: "The Terraform configuration under test must define the " \

@@ -23,7 +23,7 @@ Run `aws configure` and provide below information:
 Your AWS Access Key ID
 Your AWS Secret Access Key
 Default region name
-Default output format
+Default output format (json|text|table)
 ```
 
 #### Generate ssh key pair

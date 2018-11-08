@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 static_terraform_output = attribute(
   "static_terraform_output",
   description: "The Terraform configuration under test must define an " \

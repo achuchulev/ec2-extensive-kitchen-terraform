@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 reachable_other_host_ip_address = attribute(
   "reachable_other_host_ip_address",
   description: "The Terraform configuration under test must define the " \

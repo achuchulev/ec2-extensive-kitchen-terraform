@@ -43,9 +43,9 @@ gem install bundler
 bundle install
 ```
 
-### How to test
+### Run the test
 
-Run `./test.sh`
+Execute script `./test.sh`
 
 The test script will do the following:
 

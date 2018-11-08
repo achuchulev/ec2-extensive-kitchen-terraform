@@ -26,7 +26,7 @@ Default region name
 Default output format (json|text|table)
 ```
 
-#### Generate ssh key pair
+#### Generate ssh key pair to be used for new EC2 instances
 
 Run `./key.sh`
 

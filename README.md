@@ -20,8 +20,8 @@ cd ec2-extensive-kitchen-terraform/
 Run `aws configure` and provide below information:
 
 ```
-AWS Access Key ID
-AWS Secret Access Key
+Your AWS Access Key ID
+Your AWS Secret Access Key
 Default region name
 Default output format
 ```

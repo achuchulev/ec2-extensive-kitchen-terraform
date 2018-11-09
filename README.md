@@ -1,4 +1,8 @@
-# How to use extensive kitchen-terraform plugin to test terraform configurations
+# Test kitchen plugin "extensive kitchen-terraform" for testing Terraform configurations
+
+## Purpose
+
+The purpose of this repo is to use test kitchen plugin _extensive kitchen-terraform_ to test Terraform configuration
 
 ### Prerequisites
 

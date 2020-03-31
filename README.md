@@ -68,12 +68,12 @@ The test script will do the following:
 .
 ├── Gemfile
 ├── Gemfile.lock
+├── LICENSE
+├── README.md
 ├── key.sh
 ├── kitchen.yml
-├── LICENSE
 ├── main.tf
 ├── outputs.tf
-├── README.md
 ├── test
 │   ├── assets
 │   │   ├── key_pair
